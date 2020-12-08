@@ -1,2 +1,2 @@
 # creep
-a proxy
+a tcp tunnel
